@@ -1,2 +1,2 @@
 print('hello world')
-print('hello 2234234')
+print('hello')
